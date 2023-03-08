@@ -1,0 +1,9 @@
+numpy
+gym
+joblib
+torch
+pymoo
+sklearn
+numba
+scipy
+matplotlib
