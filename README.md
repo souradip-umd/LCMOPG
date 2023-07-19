@@ -1,5 +1,9 @@
 # Latent-Conditioned Policy Gradient for Multi-Objective Deep Reinforcement Learning
 [https://arxiv.org/abs/2303.08909](https://arxiv.org/abs/2303.08909)
+
+Accepted by [the 32nd International Conference on Artificial Neural Networks (ICANN2023)](https://e-nns.org/icann2023/), 
+Crete, Greece from 26th to 29th of September 2023.
+
 ## Authors
 Takuya Kanazawa (Hitachi, Ltd.) and Chetan Gupta (Hitachi America, Ltd.)
 
